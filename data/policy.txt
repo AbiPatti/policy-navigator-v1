@@ -1,0 +1,26 @@
+GLOBAL TECH SOLUTIONS - REMOTE WORK POLICY (2025)
+
+1. PURPOSE
+This policy outlines the guidelines for employees working remotely. Our goal is to balance flexibility with productivity.
+
+2. ELIGIBILITY
+- Full-time employees are eligible for "Hybrid Remote" status after 90 days of employment.
+- "Fully Remote" status requires VP-level approval.
+- Interns must work from the HQ at least 4 days a week.
+
+3. WORK HOURS & AVAILABILITY
+- Core hours are 10:00 AM to 3:00 PM EST. You must be online on Slack/Teams during these hours.
+- Employees are expected to work 40 hours per week.
+- Unavailability for more than 2 hours during the workday requires manager notification.
+
+4. EQUIPMENT & SECURITY
+- The company provides a MacBook Pro and a $500 stipend for home office setup.
+- Employees must use the company VPN when accessing internal servers.
+- Working from public Wi-Fi (cafes, airports) is strictly prohibited unless using the VPN.
+
+5. EXPENSES
+- Internet bills are NOT reimbursed.
+- Travel to HQ for quarterly "All-Hands" meetings is 100% covered by the company.
+
+6. TERMINATION OF REMOTE STATUS
+- The company reserves the right to revoke remote privileges if performance drops below expectations for two consecutive quarters.
