@@ -9,6 +9,26 @@ from langchain_classic.chains import RetrievalQA
 load_dotenv()
 
 def query_data(question):
+    """
+    Query the policy document database with a natural language question.
+    
+    This function connects to a Pinecone vector store, retrieves relevant 
+    document chunks based on the question, and uses Google's Gemini model 
+    to generate a contextual answer.
+    
+    Args:
+        question (str): The natural language question to ask about the policies
+        
+    Returns:
+        None: Prints the answer to stdout
+        
+    Example:
+        >>> query_data("What is the policy on equipment?")
+        --- Asking: What is the policy on equipment? ---
+        
+        Answer: 
+        [Generated answer based on policy documents]
+    """
     print(f"\n--- Asking: {question} ---")
 
     # Initalize embedding model (same model as ingestion)
